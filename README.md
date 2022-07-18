@@ -1,4 +1,6 @@
-# GitHub æœ€åˆã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆ
 
-ã“ã‚“ã«ã¡ã¯ï¼ŒGitHub!
-ã‚³ãƒŸãƒƒãƒˆï¼‘
+# GitHub Å‰‚ÌƒvƒƒWƒFƒNƒg
+
+‚±‚ñ‚É‚¿‚ÍCGitHub!
+ƒRƒ~ƒbƒg‚P
+ƒRƒ~ƒbƒg‚Q
